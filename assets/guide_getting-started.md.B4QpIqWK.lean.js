@@ -65,7 +65,7 @@ import{_ as i,c as a,a0 as n,o as h}from"./chunks/framework.D5XSuxOt.js";const g
 <span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;">✗ omc list-models</span></span>
 <span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;">2024-12-31T08:23:02.749Z INFO  | [console] Listing models...</span></span>
 <span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;">2024-12-31T08:23:05.938Z INFO  | [console] Available models:</span></span>
-<span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;">2024-12-31T08:23:05.938Z INFO  | [console]   ✓ ohMyCommit.standard - omc-standard-claude-3.5 (default)</span></span>
+<span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;">2024-12-31T08:23:05.938Z INFO  | [console]   ✓ ohMyCommit.standard - omc-standard (default)</span></span>
 <span class="line"></span>
 <span class="line"></span>
 <span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;"># 配置代理与自己的 API_KEY，基于当前的 git 环境自动生成 commit</span></span>
